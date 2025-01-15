@@ -16,7 +16,7 @@ import ig5 from "../assets/favorite.png";
 import code from "../assets/code.png";
 import { Avatar } from "antd";
 
-import { Autoplay, Pagination, Navigation } from "swiper/modules";
+import { Pagination, Navigation } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 import "swiper/swiper-bundle.css";
 
